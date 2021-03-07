@@ -6,6 +6,7 @@
   position: relative;
   left: 360px;
   top: 5px;
+  font-family: 'Open Sans', sans-serif;
 }
 .photo
 {
@@ -20,4 +21,10 @@
   position: absolute;
   left: 200px;
   top: 5px;
+}
+.student
+{
+  position: absolute;
+  left: 200px;
+  top: 55px;
 }
