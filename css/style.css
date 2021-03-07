@@ -1,0 +1,23 @@
+.intro
+{
+  background-color: white;
+  height: 300px;
+  width: 600px;
+  position: relative;
+  left: 360px;
+  top: 5px;
+}
+.photo
+{
+  left: 5px;
+  top: 5px;
+  position: relative;
+  border-radius: 50%;
+}
+
+.name
+{
+  position: absolute;
+  left: 200px;
+  top: 5px;
+}
